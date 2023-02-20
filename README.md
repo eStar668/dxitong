@@ -1,5 +1,5 @@
 # Note
-
+bash <(wget --no-check-certificate -qO- 'https://raw.github.com/eStar668/dxitong/master/InstallNET.sh') -d 11 -v 64 -p 更改为自定义密码 -port 22
 ## MacOS
 ###
 ```
